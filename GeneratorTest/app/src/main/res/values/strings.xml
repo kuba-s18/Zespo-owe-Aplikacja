@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GeneratorTest</string>
+    <string name="action_settings">Settings</string>
+    <array name="przedmioty">
+        <item>Godzina</item>
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Sroda</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>07.00-8.00</item>
+        <item>Przediomt y</item>
+        <item>Przediomt z</item>
+        <item>Przediomt X</item>
+        <item>Przediomt y</item>
+        <item>Przediomt z</item>
+        <item>08.15-9.00</item>
+        <item>Przediomt X</item>
+        <item>Przediomt y</item>
+        <item>Przediomt z</item>
+        <item>Przediomt X</item>
+        <item>Przediomt y</item>
+        <item>09.15-10.00</item>
+        <item> </item>
+        <item> </item>
+        <item>Zarządzanie firmą informatyczną C D-1 303</item>
+        <item> </item>
+        <item>Przediomt z</item>
+    </array>
+    <string name="title_activity_log">log</string>
+    <string name="title_activity_plan">Plan</string>
+</resources>
